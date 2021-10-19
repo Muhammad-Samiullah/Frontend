@@ -747,5 +747,16 @@ select {
           .header-links > div {
               margin-bottom: 30px;
           }
+          .img-card {
+              width: 95%;
+              margin: auto;
+          }
+
+          .estimator {
+              width: 100%;
+          }
+          .footer-logos {
+              width: 25%;
+          }
       }
   }
